@@ -3,6 +3,7 @@ package com.ieeecsbdc.controller;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ieeecsbdc.model.Event;
 import com.ieeecsbdc.repository.EventRepository;
+import com.ieeecsbdc.controller.EventController;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
