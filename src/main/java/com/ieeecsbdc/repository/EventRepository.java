@@ -1,4 +1,4 @@
-package main.java.com.ieeecsbdc.repository;
+package com.ieeecsbdc.repository;
 
 import com.ieeecsbdc.model.Event;
 import org.springframework.data.jpa.repository.JpaRepository;

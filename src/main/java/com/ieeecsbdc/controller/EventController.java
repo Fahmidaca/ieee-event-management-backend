@@ -1,4 +1,4 @@
-package main.java.com.ieeecsbdc.controller;
+package com.ieeecsbdc.controller;
 
 import com.ieeecsbdc.model.Event;
 import com.ieeecsbdc.repository.EventRepository;

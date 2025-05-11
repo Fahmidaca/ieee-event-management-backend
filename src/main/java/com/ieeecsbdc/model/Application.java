@@ -1,4 +1,4 @@
-package com.ieeecsbdc.model;
+package main.java.com.ieeecsbdc.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
