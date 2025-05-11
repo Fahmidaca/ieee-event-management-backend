@@ -1,4 +1,4 @@
-package test.java.com.ieeecsbdc.controller;
+package com.ieeecsbdc.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ieeecsbdc.model.Event;
