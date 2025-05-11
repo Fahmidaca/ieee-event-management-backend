@@ -1,4 +1,4 @@
-package main.java.com.ieeecsbdc.controller;
+package com.ieeecsbdc.controller;
 
 import com.ieeecsbdc.model.Application;
 import com.ieeecsbdc.repository.ApplicationRepository;
@@ -12,6 +12,8 @@ import jakarta.validation.Valid;
 @RequestMapping("/api/applications")
 @CrossOrigin(origins = "http://localhost:3000")
 public class ApplicationController {
+
+    // Trivial comment added to trigger rebuild
 
     @Autowired
     private ApplicationRepository applicationRepository;
